@@ -1,0 +1,11 @@
+D:\CodeMaze\CompanyEmployees\Entities\bin\Debug\net7.0\Entities.deps.json
+D:\CodeMaze\CompanyEmployees\Entities\bin\Debug\net7.0\Entities.dll
+D:\CodeMaze\CompanyEmployees\Entities\bin\Debug\net7.0\Entities.pdb
+D:\CodeMaze\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeMaze\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+D:\CodeMaze\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+D:\CodeMaze\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+D:\CodeMaze\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.dll
+D:\CodeMaze\CompanyEmployees\Entities\obj\Debug\net7.0\refint\Entities.dll
+D:\CodeMaze\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.pdb
+D:\CodeMaze\CompanyEmployees\Entities\obj\Debug\net7.0\ref\Entities.dll

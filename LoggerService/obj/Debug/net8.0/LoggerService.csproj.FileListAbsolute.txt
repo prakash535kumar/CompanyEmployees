@@ -1,0 +1,17 @@
+D:\CodeMaze\CompanyEmployees\LoggerService\bin\Debug\net8.0\LoggerService.deps.json
+D:\CodeMaze\CompanyEmployees\LoggerService\bin\Debug\net8.0\LoggerService.dll
+D:\CodeMaze\CompanyEmployees\LoggerService\bin\Debug\net8.0\LoggerService.pdb
+D:\CodeMaze\CompanyEmployees\LoggerService\bin\Debug\net8.0\Contracts.dll
+D:\CodeMaze\CompanyEmployees\LoggerService\bin\Debug\net8.0\Contracts.pdb
+D:\CodeMaze\CompanyEmployees\LoggerService\obj\Debug\net8.0\LoggerService.csproj.AssemblyReference.cache
+D:\CodeMaze\CompanyEmployees\LoggerService\obj\Debug\net8.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeMaze\CompanyEmployees\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfoInputs.cache
+D:\CodeMaze\CompanyEmployees\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfo.cs
+D:\CodeMaze\CompanyEmployees\LoggerService\obj\Debug\net8.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\CodeMaze\CompanyEmployees\LoggerService\obj\Debug\net8.0\LoggerService.csproj.CopyComplete
+D:\CodeMaze\CompanyEmployees\LoggerService\obj\Debug\net8.0\LoggerService.dll
+D:\CodeMaze\CompanyEmployees\LoggerService\obj\Debug\net8.0\refint\LoggerService.dll
+D:\CodeMaze\CompanyEmployees\LoggerService\obj\Debug\net8.0\LoggerService.pdb
+D:\CodeMaze\CompanyEmployees\LoggerService\obj\Debug\net8.0\ref\LoggerService.dll
+D:\CodeMaze\CompanyEmployees\LoggerService\bin\Debug\net8.0\Entities.dll
+D:\CodeMaze\CompanyEmployees\LoggerService\bin\Debug\net8.0\Entities.pdb
