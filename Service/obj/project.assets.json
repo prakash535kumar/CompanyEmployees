@@ -387,11 +387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CodeMaze\\CompanyEmployees\\Service\\Service.csproj",
+      "projectUniqueName": "C:\\Users\\prakashko\\OneDrive - ExamRoomAI\\Documents\\GitHub\\CompanyEmployees\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "D:\\CodeMaze\\CompanyEmployees\\Service\\Service.csproj",
+      "projectPath": "C:\\Users\\prakashko\\OneDrive - ExamRoomAI\\Documents\\GitHub\\CompanyEmployees\\Service\\Service.csproj",
       "packagesPath": "C:\\Users\\prakashko\\.nuget\\packages\\",
-      "outputPath": "D:\\CodeMaze\\CompanyEmployees\\Service\\obj\\",
+      "outputPath": "C:\\Users\\prakashko\\OneDrive - ExamRoomAI\\Documents\\GitHub\\CompanyEmployees\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\prakashko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -409,11 +409,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CodeMaze\\CompanyEmployees\\Contracts\\Contracts.csproj": {
-              "projectPath": "D:\\CodeMaze\\CompanyEmployees\\Contracts\\Contracts.csproj"
+            "C:\\Users\\prakashko\\OneDrive - ExamRoomAI\\Documents\\GitHub\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+              "projectPath": "C:\\Users\\prakashko\\OneDrive - ExamRoomAI\\Documents\\GitHub\\CompanyEmployees\\Contracts\\Contracts.csproj"
             },
-            "D:\\CodeMaze\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
-              "projectPath": "D:\\CodeMaze\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
+            "C:\\Users\\prakashko\\OneDrive - ExamRoomAI\\Documents\\GitHub\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
+              "projectPath": "C:\\Users\\prakashko\\OneDrive - ExamRoomAI\\Documents\\GitHub\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
             }
           }
         }
@@ -422,6 +422,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -453,7 +458,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

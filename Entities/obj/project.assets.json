@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CodeMaze\\CompanyEmployees\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\prakashko\\OneDrive - ExamRoomAI\\Documents\\GitHub\\CompanyEmployees\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "D:\\CodeMaze\\CompanyEmployees\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\prakashko\\OneDrive - ExamRoomAI\\Documents\\GitHub\\CompanyEmployees\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\prakashko\\.nuget\\packages\\",
-      "outputPath": "D:\\CodeMaze\\CompanyEmployees\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\prakashko\\OneDrive - ExamRoomAI\\Documents\\GitHub\\CompanyEmployees\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\prakashko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,6 +41,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -62,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
